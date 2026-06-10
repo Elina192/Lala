@@ -1,2 +1,2 @@
 # Lala
-I was given an assignment. I'm doing it here. Hello!
+I was given an task. I'm doing it here. Hello!
